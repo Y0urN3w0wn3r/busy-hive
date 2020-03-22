@@ -4,11 +4,13 @@
 [![Busy channel on Discord](https://img.shields.io/badge/chat-discord-738bd7.svg)](https://discord.gg/G95rNZs)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-# Busy 🚀
+# Busy-Hive 
+
+![Preview](https://i.ibb.co/SsMBnrn/social-hive-city.jpg)
 
 Busy is an Open Source social network and communications platform which extends itself to a variety of rich features and functionality including free digital payments and a marketplace for goods and services.
+This repo was setup to run on the STEEM blockchain, this is a forked version to run on HIVE.
 
-For more info: https://busy.org/@busy.org
 
 ## Preview
 
@@ -17,7 +19,7 @@ For more info: https://busy.org/@busy.org
 ## Quick Setup
 
 ```bash
-git clone https://github.com/busyorg/busy.git
+git clone https://github.com/Y0urn3w0wn3r/busy-hive.git
 cd busy
 
 yarn
@@ -27,7 +29,7 @@ yarn dev
 ## Production build
 
 ```bash
-git clone https://github.com/busyorg/busy.git
+git clone https://github.com/Y0urn3w0wn3r/busy-hive.git
 cd busy
 
 yarn
@@ -44,6 +46,7 @@ If you would like to contribute, but don't know what to work on, check our [Cont
 
 Busy is an MIT-licensed open source project. It's an independent project with its ongoing development made possible entirely thanks to the support by these awesome backers.
 
+[@unknownonline](https://busy.org/@unknownonline)
 [@steemit](https://busy.org/@steemit)
 [@smooth](https://busy.org/@smooth)
 [@jamesc](https://busy.org/@jamesc)
@@ -79,7 +82,7 @@ Busy is an MIT-licensed open source project. It's an independent project with it
 [@buzzbeergeek](https://busy.org/@buzzbeergeek)
 [@timcliff](https://busy.org/@timcliff)
 [@blockchainstudio](https://busy.org/@blockchainstudio)
-
+[@unknownonline](https://busy.org/@unknownonline)
 ## Partners
 
 [![](https://res.cloudinary.com/hpiynhbhq/image/upload/v1507199425/hevqheh9nltx0dfbuvo8.png)](https://crowdin.com/project/busy)  
