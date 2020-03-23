@@ -198,7 +198,7 @@ export default class PowerUpOrDown extends React.Component {
                       defaultMessage="{amount} {currency}"
                       values={{
                         amount: Math.floor(this.getAvailableBalance() * 1000) / 1000,
-                        currency: down ? 'SP' : 'STEEM',
+                        currency: down ? 'HP' : 'HIVE',
                       }}
                     />
                   </span>
