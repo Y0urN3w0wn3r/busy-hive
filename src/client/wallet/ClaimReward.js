@@ -32,7 +32,7 @@ const getFormattedPayout = (
           minimumFractionDigits={3}
           maximumFractionDigits={3}
         />
-        {' STEEM'}
+        {' HIVE'}
       </span>,
     );
   }
@@ -45,7 +45,7 @@ const getFormattedPayout = (
           minimumFractionDigits={3}
           maximumFractionDigits={3}
         />
-        {' SBD'}
+        {' HBD'}
       </span>,
     );
   }
@@ -58,7 +58,7 @@ const getFormattedPayout = (
           minimumFractionDigits={3}
           maximumFractionDigits={3}
         />
-        {' SP'}
+        {' HP'}
       </span>,
     );
   }
